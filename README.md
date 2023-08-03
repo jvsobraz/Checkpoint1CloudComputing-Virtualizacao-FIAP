@@ -1,4 +1,4 @@
-# Checkpoint 1 - Cloud Computing - Virtualização
+# Checkpoint 1 - 1° Semestre - Cloud Computing - Virtualização
 
 Link de acesso ao arquivo *ISO.:
 https://zorin.com/os/download/
